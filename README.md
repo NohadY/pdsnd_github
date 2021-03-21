@@ -7,6 +7,10 @@ Include the date you created this project and README file.
 Bike Share analysis
 
 ### Description
-This is project for using python in data science. 
+This is project for using python in data sciencse.BikeShare.py statstics and analysis 
+to get the most city(chicago,
+,new_york_city
+,washington
+)
 
 
